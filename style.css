@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 2rem;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+}
+#cert {
+  border: 2px solid black;
+  padding: 20px;
+  width: 70%;
+  margin: auto;
+  background-color: #f0f8ff;
+}
